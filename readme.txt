@@ -13,6 +13,8 @@ Decimal to Fraction Calculator converts decimals to fractions or mixed numbers. 
 
 Decimal to Fraction Calculator converts decimals to fractions or mixed numbers. The Fraction converter works for terminating and for recurring decimals.
 
+[Decimal to Fraction Calculator Homepage](https://www.calculator.io/decimal-to-fraction-calculator/ "Decimal to Fraction Calculator Homepage")
+
 __Shortcode__
 
 Use the Decimal to Fraction Calculator shortcode:
