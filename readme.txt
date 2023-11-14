@@ -9,41 +9,29 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Decimal to Fraction Calculator converts decimals to fractions or mixed numbers. The Fraction converter works for terminating and for recurring decimals.
 
-== Description ==
-
-Decimal to Fraction Calculator converts decimals to fractions or mixed numbers. The Fraction converter works for terminating and for recurring decimals.
-
 [https://www.calculator.io/decimal-to-fraction-calculator/](https://www.calculator.io/decimal-to-fraction-calculator/)
 
-__Decimal to Fraction Calculator Shortcode__
+== Usage ==
+
+Add the Decimal to Fraction Calculator shortcode to your page, post or sidebar:
 
 `[ci_decimal_to_fraction_calculator]`
 
-== Installation ==
+Add the following code to your template where you would like the Decimal to Fraction Calculator to appear:
 
-1. Upload the /ci_decimal_to_fraction_calculator/ folder to the /wp-content/plugins/ directory.
-2. Activate the [Decimal to Fraction Calculator](https://www.calculator.io/decimal-to-fraction-calculator/ "Decimal to Fraction Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-
-== Decimal to Fraction Calculator Usage ==
-
-* Add the shortcode `[ci_decimal_to_fraction_calculator]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_decimal_to_fraction_calculator(); ?>` to your template where you would like the Decimal to Fraction Calculator to appear.
+`<?php display_ci_decimal_to_fraction_calculator(); ?>`
 
 == Screenshots ==
 
 1. The Decimal to Fraction Calculator Input Form.
 2. The Decimal to Fraction Calculator Calculation Results.
 
-== Libraries used in Decimal to Fraction Calculator ==
+== Installation ==
 
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
+1. Upload the Decimal to Fraction Calculator /ci_decimal_to_fraction_calculator/ folder to the /wp-content/plugins/ directory.
+2. Activate the Decimal to Fraction Calculator plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Initial release of Decimal to Fraction Calculator
