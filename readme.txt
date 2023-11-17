@@ -1,6 +1,6 @@
 === Decimal to Fraction Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: decimal to fraction converter, convert decimal to fraction, decimal to fraction calculation, online decimal to fraction tool, decimal conversion calculator, fraction calculator, decimal to fraction chart, simple decimal to fraction, calculate fraction from decimal, decimal to fraction formula
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
