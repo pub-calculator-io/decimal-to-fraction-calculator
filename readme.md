@@ -1,4 +1,4 @@
-# Decimal to Fraction Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Decimal to Fraction Calculator Widget for WordPress
 
 Decimal to Fraction Calculator converts decimals to fractions or mixed numbers. The Fraction converter works for terminating and for recurring decimals.
 
