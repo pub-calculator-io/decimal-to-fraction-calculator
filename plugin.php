@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Decimal to Fraction Calculator by www.calculator.io
+Plugin Name: CI Decimal to fraction calculator
 Plugin URI: https://www.calculator.io/decimal-to-fraction-calculator/
 Description: Decimal to Fraction Calculator converts decimals to fractions or mixed numbers. The Fraction converter works for terminating and for recurring decimals.
 Version: 1.0.0
