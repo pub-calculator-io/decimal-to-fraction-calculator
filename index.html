@@ -32,7 +32,7 @@
                 			<p class="input__title">Decimal Number</p>
                 			<div class="input-field row">
                 				
-                				<input type="text" class="input-field__input" placeholder="" id="decimal_number" value="1.625" />
+                				<input type="text" class="input-field__input" placeholder="" id="decimal_number" value="0.375" />
                 				
                 			</div>
                 		</label>	</div>
@@ -43,14 +43,17 @@
                 
                 
                 
-                	<button class="button button--primary ml-auto" onclick="calculate(this)">Calculate</button>
+                	<button class="button button--primary ml-auto" onclick="calculate(this); animateElements();" data-action="calculate" id="action-button">Calculate</button>
                 </div>
                 
                 
-                	<script type="text/javascript" src="./assets/js/fractions.js"></script>
+                	<script type="text/javascript" src="./assets/js/lib/math.min.js" async></script>
                 
                 
-                	<script type="text/javascript" src="./assets/js/calculator.js"></script>
+                	<script type="text/javascript" src="./assets/js/fractions.js" defer></script>
+                
+                
+                	<script type="text/javascript" src="./assets/js/calculator.js" defer></script>
             </div>
         </div>
     </div>
@@ -65,14 +68,13 @@
         </svg>
         		<p class="calculator-error__title">There was an error with your calculation.</p>
         	</div>
-        	<div class="col" id="error-list">
-        	</div>
-        </div>        <span id="calculator_result"><div class="calculator-result col">
+        	<div class="col" id="error-list"></div>
+        </div>        <span id="calculator_result"><div class="calculator-result col animate">
 	<p class="table-cell table-cell--dark table-cell--only-title">Result</p>
 	<div class="table-cell table-cell--fraction row">
-		<p class="result-text" id="resultWhole">1</p>
+		<p class="result-text hidden" id="resultWhole"></p>
 		<div class="col fraction-text" id="resultFrac">
-			<p class="result-text text-center" id="resultNum">5</p>
+			<p class="result-text text-center" id="resultNum">3</p>
 			<p class="result-text text-center" id="resultDenom">8</p>
 		</div>
 	</div>

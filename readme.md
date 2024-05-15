@@ -3,7 +3,6 @@
 Decimal to Fraction Calculator converts decimals to fractions or mixed numbers. The Fraction converter works for terminating and for recurring decimals.
 
 ![Decimal to Fraction Calculator Input Form](/assets/images/screenshot-1.png "Decimal to Fraction Calculator Input Form")
-![Decimal to Fraction Calculator Calculation Results](/assets/images/screenshot-2.png "Decimal to Fraction Calculator Calculation Results")
 
 ## Installation
 

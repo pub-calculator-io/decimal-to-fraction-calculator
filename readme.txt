@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Decimal to Frac
 == Screenshots ==
 
 1. The Decimal to Fraction Calculator Input Form.
-2. The Decimal to Fraction Calculator Calculation Results.
 
 == Installation ==
 
